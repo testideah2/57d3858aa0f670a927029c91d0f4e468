@@ -5,12 +5,12 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "pmstudio.org.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>Конкурсы и Квесты от Блоггеров</name>
+    <name>Конкурсы и Квесты - OhMyBot</name>
 
     <description>
-        Конкурсы и Квесты Блоггеров - OhMyBot
+        Конкурсы Квесты от блогеров (Ютуб,ТикТок,Инста) и компаний c настоящими призами.
     </description>
 
     <author>Tadapp</author>
